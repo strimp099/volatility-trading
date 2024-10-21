@@ -4,8 +4,7 @@
 
 [Getting Started With Python for Quant Finance](https://gettingstartedwithpythonforquantfinance.com) is the cohort-based course and community that will take you from complete beginner to up and running with Python for quant finance in 30 days.
 
-## A complete set of volatility estimators based on Euan Sinclair's Volatility Trading. ##
-http://www.amazon.com/gp/product/0470181990/tag=quantfinancea-20
+## [A complete set of volatility estimators based on Euan Sinclair's Volatility Trading](https://amzn.to/3UhddGP) ##
 
 The original version incorporated network data acquisition from Yahoo!Finance
 from `pandas_datareader`. Yahoo! changed their API and broke `pandas_datareader`.
